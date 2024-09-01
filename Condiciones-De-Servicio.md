@@ -2,7 +2,7 @@
 
 ## Condiciones de Servicio
 
-1. **Uso del Bot**: Este bot de Discord ("The Bee Bot") es una herramienta privada diseñada y operada exclusivamente para uso en un servidor de Discord específico. No está disponible para uso público o en otros servidores.
+1. **Uso del Bot**: Este bot de Discord (TheBeeBot y Dedsafio) son una herramienta privada diseñada y operada exclusivamente para uso en un servidor de Discord específico. No está disponible para uso público o en otros servidores.
 
 2. **Propiedad Intelectual**: Todos los derechos de propiedad intelectual relacionados con el Bot, incluyendo pero no limitado a código, diseño y funcionalidades, son propiedad exclusiva del desarrollador.
 
